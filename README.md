@@ -1,6 +1,7 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Gaurav Sharma
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/sharma_codes])
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gaurav-kr-sharma/)
+[<img height="30" src="https://img.shields.io/badge/instagram-blue?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/be_a_sharma/)
 
 ### My Tech Toolbox 🧰
 
